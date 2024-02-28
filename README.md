@@ -8,6 +8,8 @@ This project aims to develop a system that can automatically recognize fruits an
 
 •	Applications: Potential applications include:
 
-  o	Assisting in grocery shopping and identification
-  o	Supporting dietary planning and tracking
-  o	Facilitating automated sorting and packaging in agriculture
+  o	Assisting in grocery shopping and identification.
+  
+  o	Supporting dietary planning and tracking.
+  
+  o	Facilitating automated sorting and packaging in agriculture.
