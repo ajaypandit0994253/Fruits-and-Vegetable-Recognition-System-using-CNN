@@ -13,3 +13,11 @@ This project aims to develop a system that can automatically recognize fruits an
     o	Supporting dietary planning and tracking.
   
     o	Facilitating automated sorting and packaging in agriculture.
+
+## Dependencies
+
+     •	Programming language: Python: https://www.python.org/
+     
+     •	Libraries: (List specific libraries used, e.g., TensorFlow, OpenCV)
+     
+     •	Hardware: (Specify hardware requirements if applicable)
