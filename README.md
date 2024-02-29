@@ -30,7 +30,8 @@ This project aims to develop a system that can automatically recognize fruits an
 
 ## Result
 
-o	Input: Open VScode then run "streamlit run main.py". It will open a user interface to use the trained model.
+o	Input: Open VScode then run "streamlit run main.py". It will open an user interface to use the classification model.
+
 ![image](https://github.com/ajaypandit0994253/Fruits-and-Vegetable-Recognition-System-using-CNN/assets/129199295/739b6304-0437-4ac6-b7d8-d951f249ce7f)
 
 o	Output: ![image](https://github.com/ajaypandit0994253/Fruits-and-Vegetable-Recognition-System-using-CNN/assets/129199295/9b709a9f-1f5c-4b46-a698-7aee54f5d922)
